@@ -1,0 +1,14 @@
+p.error{
+    color:red;
+}
+p.right{
+    color:green;
+}
+body{
+    font-size:2.0em;
+    background-image:url("../images/background.jpg");
+    /*http://www.picz.ge/scripts/view.py?uid=e5f1b86f2c8f*/
+}
+input#answer{
+    width: 350px;
+}
